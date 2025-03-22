@@ -1,4 +1,3 @@
-Berikut deskripsi menarik dan profesional untuk repositori **SmartBreeze-Kendali-Kipas-Otomatis-Berbasis-IoT** di GitHub:  
 
 ---
 
